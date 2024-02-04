@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textbeautyz/static/css/main.dc4d6ff2.css",
-    "main.js": "/textbeautyz/static/js/main.345a435f.js",
-    "static/js/808.f2a3da69.chunk.js": "/textbeautyz/static/js/808.f2a3da69.chunk.js",
-    "index.html": "/textbeautyz/index.html",
-    "main.dc4d6ff2.css.map": "/textbeautyz/static/css/main.dc4d6ff2.css.map",
-    "main.345a435f.js.map": "/textbeautyz/static/js/main.345a435f.js.map",
-    "808.f2a3da69.chunk.js.map": "/textbeautyz/static/js/808.f2a3da69.chunk.js.map"
+    "main.css": "/beautyz/static/css/main.dc4d6ff2.css",
+    "main.js": "/beautyz/static/js/main.767bee7f.js",
+    "static/js/808.f2a3da69.chunk.js": "/beautyz/static/js/808.f2a3da69.chunk.js",
+    "index.html": "/beautyz/index.html",
+    "main.dc4d6ff2.css.map": "/beautyz/static/css/main.dc4d6ff2.css.map",
+    "main.767bee7f.js.map": "/beautyz/static/js/main.767bee7f.js.map",
+    "808.f2a3da69.chunk.js.map": "/beautyz/static/js/808.f2a3da69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.345a435f.js"
+    "static/js/main.767bee7f.js"
   ]
 }
